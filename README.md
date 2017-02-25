@@ -1,5 +1,7 @@
 # AWS CLI 
 
+[![Docker Repository on Quay](https://quay.io/repository/honestbee/awscli/status "Docker Repository on Quay")](https://quay.io/repository/honestbee/awscli)
+
 Alpine container with AWS CLI
 
 Example usage:
